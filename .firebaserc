@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-tutorial-753e2"
+  },
+  "targets": {
+    "angular-tutorial-753e2": {
+      "hosting": {
+        "material-angular": [
+          "angular-tutorial-753e2"
+        ]
+      }
+    }
+  }
+}

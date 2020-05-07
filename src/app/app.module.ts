@@ -12,7 +12,7 @@ import { NgxAudioPlayerModule } from 'ngx-audio-player';
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
-    NgxAudioPlayerModule
+    NgxAudioPlayerModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

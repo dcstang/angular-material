@@ -10,7 +10,7 @@ export class AppComponent {
 
   // Material Style Basic Audio Player Title and Audio URL
   msbapTitle = 'Audio Title';
-  msbapAudioUrl = 'Link to audio URL';   
+  msbapAudioUrl = 'assets/final_onething.mp3';   
   msaapDisplayVolumeControls = true;
 
   msbapDisplayTitle = false;  
