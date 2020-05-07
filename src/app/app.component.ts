@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'material-angular';
+
+  // Material Style Basic Audio Player Title and Audio URL
+  msbapTitle = 'Audio Title';
+  msbapAudioUrl = 'Link to audio URL';   
+  msaapDisplayVolumeControls = true;
+
+  msbapDisplayTitle = false;  
+
 }
